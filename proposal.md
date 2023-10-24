@@ -102,6 +102,15 @@
 
 ![flow](https://github.com/0Ohh/proposal/assets/90323400/bc7f0082-77c0-4c71-b2ef-ae084360dded)
 
+- 学生端类图
+
+![61O7 8~NJ)9_~3}QAESN{ 5](https://github.com/0Ohh/proposal/assets/90323400/42221d45-d9c1-4f65-98c7-280842d897a8)
+
+- 管理端类图
+
+![ZPK@(X Z(E{%XPFRU~G 0@0](https://github.com/0Ohh/proposal/assets/90323400/29f8dd17-461e-4266-82dd-a20f3110397b)
+
+
 ## Timeline
 
 我们预计每人每周花费至少10h用于该项目，尝试在尽量早的时间完成开发，留下足够时间作为备用。
