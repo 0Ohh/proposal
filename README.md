@@ -1,4 +1,4 @@
-![image](https://github.com/0Ohh/proposal/assets/90323400/758ebbeb-2a7c-4b37-a663-6be84c46c4fa)# 宿舍选择系统
+# 宿舍选择系统
 
 > **Team members: **
 >
