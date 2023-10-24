@@ -21,13 +21,14 @@
 
   学生登录系统之后，学生能够看到管理员所放的通知，也可以去查看学生自己的个人档案也可以对自己的个人档案进行修改。学生端很重要的一个功能是可以进行队伍信息的查看，学生可以通过查看其他同学的信息并对其他同学进行组队邀请，同样的也可以接受其他同学对自己的组队邀请，在某些情况也可以进行队伍的退出。在宿舍方面，学生首先可以进行宿舍信息的查询并且以队伍为单位对心仪的宿舍进行收藏，既可以通过宿舍信息查询来了解宿舍也能够通过论坛进行对宿舍的评论以及查看其他人的评论。最终在正选阶段进行抢宿舍。
 
-  ![student](https://github.com/0Ohh/proposal/blob/main/student.jpg)
+  ![student](https://github.com/0Ohh/proposal/assets/90323400/fe1b31c1-fd2b-4298-8215-7e0a8c5a6258)
 
 - #### 管理端：
 
   辅导员在登录系统之后，能够对学生信息进行批量或单个的增删查改，可以以管理员身份进行发布所有人都能看到的网页通知。在宿舍信息管理方面，管理员可以对宿舍进行批量或单个的增删查改。在宿舍分配管理方面，辅导员可以对选宿舍阶段的时间进行设置，从组队时间到预选时间再到正选时间。以及在学生选完宿舍之后，为未选上宿舍的同学及队伍进行管理调配。并且宿舍信息和学生信息可以按照年级等信息进行批量导出。除此之外有一个顶级管理员，可以对普通管理员账号进行增删查改。
-  
-  ![admin](https://github.com/0Ohh/proposal/blob/main/admin.jpg)
+
+  ![admin](https://github.com/0Ohh/proposal/assets/90323400/dad94601-9a33-4cfd-8a9c-3b5ed1a332ab)
+
 
 ### 功能性需求
 
@@ -100,7 +101,8 @@
 ## Architecture
 
 - 核心业务——宿舍选择业务的泳道图（跨职能流程图）
-![flow](https://github.com/0Ohh/proposal/blob/main/flow.jpg)
+
+![flow](https://github.com/0Ohh/proposal/assets/90323400/bc7f0082-77c0-4c71-b2ef-ae084360dded)
 
 ## Timeline
 
@@ -108,10 +110,12 @@
 
 后端计划：
 
-![timeline-back-end](https://github.com/0Ohh/proposal/blob/main/back-end-time.jpg)
+![back-end-time](https://github.com/0Ohh/proposal/assets/90323400/50d94efa-9a07-41f8-a65e-ab7fa1b8b7f4)
+
 
 前端计划：
 
-![timeline-front-end](https://github.com/0Ohh/proposal/blob/main/front-end-time.jpg)
+![front-end-time](https://github.com/0Ohh/proposal/assets/90323400/1e38127a-0533-4be1-bcdc-fd0d0fc39283)
+
 
 ## APIs
