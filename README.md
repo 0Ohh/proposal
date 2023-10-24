@@ -1,4 +1,4 @@
-# 宿舍选择系统
+![image](https://github.com/0Ohh/proposal/assets/90323400/758ebbeb-2a7c-4b37-a663-6be84c46c4fa)# 宿舍选择系统
 
 > **Team members: **
 >
@@ -15,7 +15,7 @@
 
 ## Features-功能描述
 
-### User "stories"
+### User "Stories"
 
 - #### 学生端：
 
@@ -118,4 +118,24 @@
 ![front-end-time](https://github.com/0Ohh/proposal/assets/90323400/1e38127a-0533-4be1-bcdc-fd0d0fc39283)
 
 
-## APIs
+## APIs and Dependencies
+
+### 后端：
+- 框架：SpringBoot
+- 持久层框架：MybatisPlus,
+- 数据库：Postgresql
+
+### 前端：
+
+- 框架：Vue.js
+- 路由：Vue Router
+- 网络请求：Axios
+- 组件库：Element Plus
+- 图表：Echarts
+
+### 部署：
+
+- 使用nginx作为前端服务器
+- 利用docker及docker stack技术进行部署
+
+
